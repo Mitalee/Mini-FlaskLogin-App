@@ -18,7 +18,7 @@ flask run
 ```
 
 Index, Login and Profile Pages
-![Index](index.jpg)
-![Login](login.jpg)
-![Profile](profile.jpg)
+![Index](./index.jpg)
+![Login](./login.jpg)
+![Profile](./profile.jpg)
 
