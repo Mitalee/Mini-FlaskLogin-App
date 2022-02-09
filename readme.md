@@ -17,5 +17,8 @@ Run the app
 flask run
 ```
 
-Login Page
-![image description](login.jpg)
+Index, Login and Profile Pages
+![Index](index.jpg)
+![Login](login.jpg)
+![Profile](profile.jpg)
+
